@@ -6,7 +6,19 @@ void setup() {
 
   void draw() {
     background(255);
-    g1.display();
-    g1.drop();
+     m1.show();
+     m1.show();
+     m1.show();
+     m1.show();
+     m1.show();
+     m1.show();
+     m1.show();
+    m1.music();
+    m1.music();
+    m1.music();
+    m1.music();
+    m1.music();
+    m1.music();
+    m1.music();
   }
 
