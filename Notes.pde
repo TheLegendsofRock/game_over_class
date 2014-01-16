@@ -5,6 +5,7 @@ class Note {
   int d = 20;
   int d1 = 50;
   int i = 15;
+  PImage m1, m2, m3, m4, m5, m6, m7;
   Note() {
     loc1 = new PVector (x, y);
     loc2 = new PVector (x, y);
